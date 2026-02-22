@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    overflow-y: hidden;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+.carousel-item active,img {
+    height: 500px;
+}
+
+.carousel-item,img {
+    height: 500px;
+}
+
+.bd-placeholder-img {
+    height: 250px;
+}

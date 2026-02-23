@@ -27,18 +27,6 @@ It is designed as a blog-style platform for programmers where users can explore 
 
 ---
 
-## 📂 Project Structure
-
-```
-iCoder/
-│── index.html
-│── project.css
-│── images/
-│── README.md
-```
-
----
-
 ## ⚙️ How to Run the Project
 
 1. Download or clone the project.
@@ -47,8 +35,6 @@ iCoder/
    OR open with Live Server in VS Code.
 
 ---
-
-## 🎯 Components Explained
 
 ### 🔹 Navbar
 
@@ -98,8 +84,5 @@ The website is fully responsive and works on:
 
 ---
 
-## 📜 License
-
-This project is for **learning purposes** and free to use.
 
 ---

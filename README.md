@@ -4,7 +4,9 @@
 
 **iCoder** is a responsive website built using **HTML, CSS, and Bootstrap 4**.
 It is designed as a blog-style platform for programmers where users can explore technology topics, read articles, and interact through login/signup modals.
+
 ---
+
 ## 🚀 Features
 
 ✅ Responsive Navbar with dropdown menu

@@ -8,7 +8,6 @@ It is designed as a blog-style platform for programmers where users can explore 
 ---
 
 ## 🚀 Features
-
 ✅ Responsive Navbar with dropdown menu
 ✅ Login & Signup Modals (Bootstrap Modal)
 ✅ Image Carousel with captions and buttons
@@ -19,7 +18,6 @@ It is designed as a blog-style platform for programmers where users can explore 
 ---
 
 ## 🛠️ Technologies Used
-
 * HTML5
 * CSS3
 * Bootstrap 4.4.1
@@ -28,7 +26,6 @@ It is designed as a blog-style platform for programmers where users can explore 
 ---
 
 ## ⚙️ How to Run the Project
-
 1. Download or clone the project.
 2. Open the folder.
 3. Double-click **index.html**
@@ -37,32 +34,13 @@ It is designed as a blog-style platform for programmers where users can explore 
 ---
 
 ### 🔹 Navbar
-
 * Contains Home, About, Topics dropdown, Contact
 * Includes search bar
 * Login & Signup buttons open Bootstrap modals
-
-### 🔹 Carousel
-
-* Sliding images with captions
-* Navigation arrows and indicators
-
-### 🔹 Cards Section
-
-* Blog post preview layout
-* Uses Bootstrap grid system
-
-### 🔹 Footer
-
-* Copyright info
-* Privacy & Terms links
-
----
+* ---
 
 ## 📱 Responsiveness
-
 The website is fully responsive and works on:
-
 * Mobile 📱
 * Tablet 📲
 * Desktop 💻
@@ -70,7 +48,6 @@ The website is fully responsive and works on:
 ---
 
 ## ✨ Future Improvements
-
 * Add backend authentication
 * Connect database
 * Add dynamic blog posts
@@ -79,10 +56,7 @@ The website is fully responsive and works on:
 ---
 
 ## 👨‍💻 Author
-
 **Rahul Jamod**
 
 ---
 
-
----

@@ -48,6 +48,6 @@ The website is fully responsive and works on:
 * Improve UI animations
 ---
 ## 👨‍💻 Author
-**Rahul Jamod**
+<h>Rahul Jamod</h1>
 ---
 

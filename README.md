@@ -25,7 +25,7 @@ It is designed as a blog-style platform for programmers where users can explore 
 * JavaScript (Bootstrap JS, jQuery, Popper.js)
 ---
 ## ⚙️ How to Run the Project
-1. Download or clone the project.
+1. Download Or Clone the Project.
 2. Open the folder.
 3. Double-click **index.html**
    OR open with Live Server in VS Code.
@@ -42,7 +42,7 @@ The website is fully responsive and works on:
 * Desktop 💻
 ---
 ## ✨ Future Improvements
-* Add backend authentication
+* Add Backend Authentication
 * Connect database
 * Add dynamic blog posts
 * Improve UI animations

@@ -9,7 +9,7 @@ It is designed as a blog-style platform for programmers where users can explore 
 
 ## 🚀 Features
 
-✅ Responsive Navbar with dropdown menu
+✅ Responsive Navbar With dropdown menu
 ✅ Login & Signup Modals (Bootstrap Modal)
 ✅ Image Carousel with captions and buttons
 ✅ Blog-style content cards
